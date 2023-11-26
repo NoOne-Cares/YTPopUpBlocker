@@ -1,7 +1,7 @@
 {
-    "name": "YT Add Block",
+    "name": "YT Add Block PopUP",
     "version": "0.1.0",
-    "description": "Block youtube adds",
+    "description": "removes youtube AddBlocker PopUp",
     "permissions": ["tabs"],
     "host_permissions": ["https://*.youtube.com/*"],
     "background": {
